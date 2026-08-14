@@ -27,3 +27,10 @@ All visuals were then assembled onto a single dedicated Dashboard sheet, styled 
 - Sales are fairly even across coffee types, with Excelsa and Liberica narrowly ahead of Arabica and Robusta trailing (it's the lowest priced option). By roast, Light roast outsells Medium and Dark. By size, the 2.5kg bag alone accounts for roughly half of all sales. bulk purchases are the single biggest revenue driver.
 - Non-loyalty customers generated more total sales ($24.2K vs $20.9K) and a higher average order value ($46.48 vs $43.67) than loyalty cardholders which is the opposite of what a loyalty program is meant to do.
 - There isn't a single "whale" account among the top five customers, who are all in a narrow $278–$317 range. Compared to a revenue profile supported by a few large spenders, that one is healthier and less risky.
+# ✅ Recommendations
+- Test targeted promotions in Ireland and the UK to close the average-order-value gap with the US.
+- Audit the loyalty program by comparing the repeat purchase rate and lifetime value of cardholders vs non-cardholders before assuming it drives spend.
+- Lean into 2.5kg bulk offers and Light roast, since they're already top sellers and bundle smaller sizes or other roasts with them to lift basket size.
+- Investigate monthly changes by coffee type to see whether they're driven by promotions, seasonality, or a handful of large orders.
+### 🛠️ Skills Demonstrated  
+XLOOKUP · INDEX/MATCH · IF logic · Data cleaning · Excel Tables · PivotTables & PivotCharts · Slicers & Timelines · Dashboard design · Business insight generation
