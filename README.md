@@ -22,7 +22,7 @@ Using PivotTables built on the cleaned Orders table, I created:
 - Slicers for Coffee Size, Roast Type, and Loyalty Card so the whole dashboard filters interactively
 
 All visuals were then assembled onto a single dedicated Dashboard sheet, styled with a consistent color theme and layout.
-# 🔗 Preview
+### 🔗 Preview
 [Dashboard Screenshot](https://github.com/analytichassan/coffee-sales-analysis/blob/main/coffee%20sales%20dashboard%20png.jpg)
 # 💡 Key Insights
 - The United States drives 79% of total sales, versus 15% in Ireland and 6% in the UK. The US also has the highest average sale per order line ($46 vs $44 in Ireland and $38 in the UK) leading on both volume and order size.
