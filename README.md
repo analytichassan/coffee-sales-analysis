@@ -22,3 +22,8 @@ Using PivotTables built on the cleaned Orders table, I created:
 - Slicers for Coffee Size, Roast Type, and Loyalty Card so the whole dashboard filters interactively
 
 All visuals were then assembled onto a single dedicated Dashboard sheet, styled with a consistent color theme and layout.
+# 💡 Key Insights
+- The United States drives 79% of total sales, versus 15% in Ireland and 6% in the UK. The US also has the highest average sale per order line ($46 vs $44 in Ireland and $38 in the UK) leading on both volume and order size.
+- Sales are fairly even across coffee types, with Excelsa and Liberica narrowly ahead of Arabica and Robusta trailing (it's the lowest priced option). By roast, Light roast outsells Medium and Dark. By size, the 2.5kg bag alone accounts for roughly half of all sales. bulk purchases are the single biggest revenue driver.
+- Non-loyalty customers generated more total sales ($24.2K vs $20.9K) and a higher average order value ($46.48 vs $43.67) than loyalty cardholders which is the opposite of what a loyalty program is meant to do.
+- There isn't a single "whale" account among the top five customers, who are all in a narrow $278–$317 range. Compared to a revenue profile supported by a few large spenders, that one is healthier and less risky.
